@@ -1,4 +1,4 @@
-# Cute-styled-Interface-Design
+# Interface-Design
 
 Create by PS
 
